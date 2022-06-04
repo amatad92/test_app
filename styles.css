@@ -1,7 +1,10 @@
 .bg-dark {
     background-color: #212529!important;
 }
-
+/* this h1 tag fixes the mobile view of this project*/
+h1{
+    margin-top: 20px;
+}
 
 @media(min-width: 768px) {
     .news-input {
